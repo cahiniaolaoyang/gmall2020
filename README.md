@@ -1,2 +1,6 @@
 # gmall2020
-dubbo
+
+
+#gmall-user 用户服务8080
+gmall-user-service 用户服务8080
+gmall-user-service 用户服务8070
